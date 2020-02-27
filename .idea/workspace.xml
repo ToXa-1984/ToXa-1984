@@ -16,12 +16,7 @@
       <change afterPath="$PROJECT_DIR$/src/main/java/lesson11/model/Sofa.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/lesson11/model/Subject.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/lesson12/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson12homework/FirstClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson12homework/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson12homework/SecondClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson12homework/ThirdClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/lesson6/Task9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson6/Task9.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/sto/CarServis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sto/CarServis.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/sto/Check.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sto/Check.java" afterDir="false" />
@@ -270,6 +265,14 @@
       <option name="presentableId" value="Default" />
       <updated>1579112732690</updated>
     </task>
+    <task id="LOCAL-00001" summary="27.02.2020">
+      <created>1582797991021</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1582797991021</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -305,10 +308,10 @@
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="482" y="303" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1440.860@0.0.1440.860" timestamp="1580584036025" />
-    <state x="387" y="29" key="CommitChangelistDialog2" timestamp="1582797812731">
+    <state x="387" y="29" key="CommitChangelistDialog2" timestamp="1582797980155">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state x="387" y="29" key="CommitChangelistDialog2/0.0.1440.860@0.0.1440.860" timestamp="1582797812731" />
+    <state x="387" y="29" key="CommitChangelistDialog2/0.0.1440.860@0.0.1440.860" timestamp="1582797980155" />
     <state x="500" y="189" key="FileChooserDialogImpl" timestamp="1581607784224">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
@@ -333,6 +336,10 @@
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="223" y="76" key="SettingsEditor/0.0.1440.860@0.0.1440.860" timestamp="1579115160335" />
+    <state x="0" y="0" key="Vcs.Push.Dialog.v2" timestamp="1582798007344">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="0" y="0" key="Vcs.Push.Dialog.v2/0.0.1440.860@0.0.1440.860" timestamp="1582798007344" />
     <state x="428" y="259" key="com.intellij.ide.util.TipDialog" timestamp="1582714027680">
       <screen x="0" y="0" width="1440" height="860" />
     </state>

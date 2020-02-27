@@ -8,14 +8,7 @@ import java.util.Scanner;
 public class CarServis {
     public static void main(String[] args) {
 
-
-
            Car newCar = carRegistration();
-
-
-
-
-
 
 //        Car car = new Car(1, "opel", "cadet", "blue", "KB3456", 1990);
 //        car.displayInfo();
@@ -71,9 +64,18 @@ public class CarServis {
 
             return null;
 
-
+//            do {
+//                System.out.println("Введите цвет вашего автомобиля");
+//                color = scanner.nextLine();
+//                color = color.trim();
+//                if (color.equals("exit")) {
+//                    System.out.println("Отмена!");
+//                    return null;
+//                }
+//            } while (!Check.checkColor(color));
+//
+//            return null;
+            
         }
-
-
     }
 

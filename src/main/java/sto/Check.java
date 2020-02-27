@@ -62,8 +62,6 @@ public class Check {
 
     }
 
-
-
     public static boolean registrationNumber(String registrationNumber){
 
         if (registrationNumber.length() == 8) {
