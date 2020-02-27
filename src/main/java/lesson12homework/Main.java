@@ -8,10 +8,10 @@ public class Main {
 
     public static void main(String[] args) {
 
-//        ArrayList list = new ArrayList();
-//        list = FirstMainMethod(list);
-//        list = SecondMainMethod(list);
-//        ThirdMainMethod(list);
+        ArrayList list = new ArrayList();
+        list = FirstMainMethod(list);
+        list = SecondMainMethod(list);
+        ThirdMainMethod(list);
 
         HashSet hashSet = new HashSet();
         hashSet = FirstHashMethod(hashSet);
