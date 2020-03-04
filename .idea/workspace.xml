@@ -1,18 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2ba67078-c591-487f-82bd-9663fbe10325" name="Default Changelist" comment="04.03.2020">
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson14homework/FirstClass.java" afterDir="false" />
+    <list default="true" id="2ba67078-c591-487f-82bd-9663fbe10325" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lesson10homework/MyMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson10homework/MyMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lesson13homework/FirstClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson13homework/FirstClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/lesson13homework/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson13homework/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lesson13homework/SecondClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson13homework/SecondClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lesson13homework/ThirdClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson13homework/ThirdClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lesson14/CustomException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson14/CustomException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lesson14/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson14/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lesson14/MethodsWithExceptions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson14/MethodsWithExceptions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lesson14/Writer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson14/Writer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -197,13 +188,21 @@
       <option name="project" value="LOCAL" />
       <updated>1583322449475</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="04.03.2020 + мелкие поправочки">
+      <created>1583353011742</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1583353011742</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="27.02.2020" />
     <MESSAGE value="04.03.2020" />
-    <option name="LAST_COMMIT_MESSAGE" value="04.03.2020" />
+    <MESSAGE value="04.03.2020 + мелкие поправочки" />
+    <option name="LAST_COMMIT_MESSAGE" value="04.03.2020 + мелкие поправочки" />
   </component>
   <component name="WindowStateProjectService">
     <state x="450" y="189" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1583247984078">
@@ -238,30 +237,30 @@
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="482" y="303" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1440.860@0.0.1440.860" timestamp="1580584036025" />
-    <state x="387" y="29" key="CommitChangelistDialog2" timestamp="1583322521548">
+    <state x="387" y="29" key="CommitChangelistDialog2" timestamp="1583353007995">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state x="387" y="29" key="CommitChangelistDialog2/0.0.1440.860@0.0.1440.860" timestamp="1583322521548" />
+    <state x="387" y="29" key="CommitChangelistDialog2/0.0.1440.860@0.0.1440.860" timestamp="1583353007995" />
     <state x="500" y="189" key="FileChooserDialogImpl" timestamp="1581607784224">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="500" y="189" key="FileChooserDialogImpl/0.0.1440.860@0.0.1440.860" timestamp="1581607784224" />
-    <state width="1397" height="240" key="GridCell.Tab.0.bottom" timestamp="1583352947076">
+    <state width="1397" height="240" key="GridCell.Tab.0.bottom" timestamp="1583354619651">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1397" height="240" key="GridCell.Tab.0.bottom/0.0.1440.860@0.0.1440.860" timestamp="1583352947076" />
-    <state width="1397" height="240" key="GridCell.Tab.0.center" timestamp="1583352947076">
+    <state width="1397" height="240" key="GridCell.Tab.0.bottom/0.0.1440.860@0.0.1440.860" timestamp="1583354619651" />
+    <state width="1397" height="240" key="GridCell.Tab.0.center" timestamp="1583354619651">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1397" height="240" key="GridCell.Tab.0.center/0.0.1440.860@0.0.1440.860" timestamp="1583352947076" />
-    <state width="1397" height="240" key="GridCell.Tab.0.left" timestamp="1583352947076">
+    <state width="1397" height="240" key="GridCell.Tab.0.center/0.0.1440.860@0.0.1440.860" timestamp="1583354619651" />
+    <state width="1397" height="240" key="GridCell.Tab.0.left" timestamp="1583354619651">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1397" height="240" key="GridCell.Tab.0.left/0.0.1440.860@0.0.1440.860" timestamp="1583352947076" />
-    <state width="1397" height="240" key="GridCell.Tab.0.right" timestamp="1583352947076">
+    <state width="1397" height="240" key="GridCell.Tab.0.left/0.0.1440.860@0.0.1440.860" timestamp="1583354619651" />
+    <state width="1397" height="240" key="GridCell.Tab.0.right" timestamp="1583354619651">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1397" height="240" key="GridCell.Tab.0.right/0.0.1440.860@0.0.1440.860" timestamp="1583352947076" />
+    <state width="1397" height="240" key="GridCell.Tab.0.right/0.0.1440.860@0.0.1440.860" timestamp="1583354619651" />
     <state x="250" y="89" key="Maven.ArtifactSearchDialog" timestamp="1583155772639">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
@@ -270,10 +269,10 @@
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="223" y="17" key="SettingsEditor/0.0.1440.860@0.0.1440.860" timestamp="1583156153438" />
-    <state x="0" y="0" key="Vcs.Push.Dialog.v2" timestamp="1583322452323">
+    <state x="0" y="0" key="Vcs.Push.Dialog.v2" timestamp="1583353014372">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state x="0" y="0" key="Vcs.Push.Dialog.v2/0.0.1440.860@0.0.1440.860" timestamp="1583322452323" />
+    <state x="0" y="0" key="Vcs.Push.Dialog.v2/0.0.1440.860@0.0.1440.860" timestamp="1583353014372" />
     <state x="428" y="259" key="com.intellij.ide.util.TipDialog" timestamp="1583312521598">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
@@ -290,10 +289,10 @@
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="427" y="64" width="586" height="732" key="find.popup/0.0.1440.860@0.0.1440.860" timestamp="1580813427512" />
-    <state x="428" y="56" key="refactoring.ChangeSignatureDialog" timestamp="1582716442485">
+    <state x="428" y="56" key="refactoring.ChangeSignatureDialog" timestamp="1583354264787">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state x="428" y="56" key="refactoring.ChangeSignatureDialog/0.0.1440.860@0.0.1440.860" timestamp="1582716442485" />
+    <state x="428" y="56" key="refactoring.ChangeSignatureDialog/0.0.1440.860@0.0.1440.860" timestamp="1583354264787" />
     <state x="376" y="195" key="run.anything.popup" timestamp="1580812425710">
       <screen x="0" y="0" width="1440" height="860" />
     </state>

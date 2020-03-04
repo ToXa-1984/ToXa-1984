@@ -6,13 +6,13 @@ import java.util.*;
 public class Main {
     public static void main(String[] args) throws IOException {
         //Зад1
-        String nameFile = "C:/Hillel/src/main/resources/lesson13/questionnaire.txt";
-        QuestionnaireClass.mQuestionnaire(nameFile);
-        QuestionnaireClass.mQuestionnaire(nameFile);
+//        String nameFile = "C:/Hillel/src/main/resources/lesson13/questionnaire.txt";
+//        QuestionnaireClass.mQuestionnaire(nameFile);
+//        QuestionnaireClass.mQuestionnaire(nameFile);
 
         //Зад2
         ThirdClass myTh = new ThirdClass();
-        myTh.getMySet();
+        myTh.setMySet(new HashSet());
         ThirdClass myTh2 = new ThirdClass();
         ThirdClass myTh3 = new ThirdClass();
 
