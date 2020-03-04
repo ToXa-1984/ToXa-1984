@@ -13,21 +13,31 @@ public class Main {
         //Зад2
         ThirdClass myTh = new ThirdClass();
         myTh.mySet = new HashSet();
+        ThirdClass myTh2 = new ThirdClass();
+        ThirdClass myTh3 = new ThirdClass();
 
         HashSet set = new HashSet();
         set.add(myTh);
-        set.add(myTh);
-        set.add(myTh);
+        set.add(myTh2);
+        set.add(myTh3);
 
+        SecondClass mySC = new SecondClass();
         ArrayList arListMain = new ArrayList();
-        checkClass(arListMain, set);
+        arListMain.add(mySC);
+        arListMain.add(mySC);
+        arListMain.add(mySC);
+
+        ArrayList arListMain2 = checkClass(set, arListMain);
+        for (Object o : arListMain2) {
+            System.out.println(o);
+        }
     }
 
-    private static void checkClass(ArrayList<? extends SecondClass> myList, HashSet<? super SecondClass> mySet) {
+    private static ArrayList checkClass(HashSet<? extends SecondClass> mySet, ArrayList<? super SecondClass> myList) {
+        ArrayList<Object> myArrL = new ArrayList<>();
+        myArrL.addAll(mySet);
+        myArrL.addAll(myList);
 
-        ArrayList<SecondClass> arListSecondClass = new ArrayList<>();
-        HashSet set = new HashSet();
-        ArrayList list = new ArrayList();
-        list.addAll(set);
+        return myArrL;
     }
 }
