@@ -1,7 +1,5 @@
 package lesson13homework;
 
-import lesson9new.Animal;
-
 import java.io.IOException;
 import java.util.*;
 
