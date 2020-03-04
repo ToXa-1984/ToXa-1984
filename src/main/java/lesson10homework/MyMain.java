@@ -20,7 +20,9 @@ public class MyMain {
         chef.setNickname("Cookermaster");
 
         System.out.println("Information about the chef:");
-        System.out.println("Name: " + chef.getName() + "\n" + "Surname: " + chef.getSurname() + "\n" + "Height: " + chef.getHeight() + "\n" + "Weight: " + chef.getWeight() + "\n" + "Salary: " + chef.getSalary() + "\n" + "Nickname: " + chef.getNickname());
+        System.out.println("Name: " + chef.getName() + "\n" + "Surname: " + chef.getSurname() +
+                "\n" + "Height: " + chef.getHeight() + "\n" + "Weight: " + chef.getWeight() +
+                "\n" + "Salary: " + chef.getSalary() + "\n" + "Nickname: " + chef.getNickname());
 
         chef.comeToWork();
         chef.work();
@@ -41,7 +43,9 @@ public class MyMain {
         butcher.setNickname("Bloodman");
 
         System.out.println("\n" + "Information about the butcher:");
-        System.out.println("Name: " + butcher.getName() + "\n" + "Surname: " + butcher.getSurname() + "\n" + "Height: " + butcher.getHeight() + "\n" + "Weight: " + butcher.getWeight() + "\n" + "Salary: " + butcher.getSalary() + "\n" + "Nickname: " + butcher.getNickname());
+        System.out.println("Name: " + butcher.getName() + "\n" + "Surname: " + butcher.getSurname() +
+                "\n" + "Height: " + butcher.getHeight() + "\n" + "Weight: " + butcher.getWeight() +
+                "\n" + "Salary: " + butcher.getSalary() + "\n" + "Nickname: " + butcher.getNickname());
 
         butcher.comeToWork();
         butcher.work();
@@ -62,7 +66,10 @@ public class MyMain {
         confectioner.setNickname("Honey");
 
         System.out.println("\n" + "Information about the confectioner:");
-        System.out.println("Name: " + confectioner.getName() + "\n" + "Surname: " + confectioner.getSurname() + "\n" + "Height: " + confectioner.getHeight() + "\n" + "Weight: " + confectioner.getWeight() + "\n" + "Salary: " + confectioner.getSalary() + "\n" + "Nickname: " + confectioner.getNickname());
+        System.out.println("Name: " + confectioner.getName() + "\n" + "Surname: " +
+                confectioner.getSurname() + "\n" + "Height: " + confectioner.getHeight() +
+                "\n" + "Weight: " + confectioner.getWeight() + "\n" + "Salary: " +
+                confectioner.getSalary() + "\n" + "Nickname: " + confectioner.getNickname());
 
         confectioner.comeToWork();
         confectioner.work();
@@ -87,7 +94,10 @@ public class MyMain {
         director.setExperience(18);
 
         System.out.println("\n" + "Information about the director:");
-        System.out.println("Surname: " + director.getSurname() + "\n" + "Age: " + director.getAge() + "\n" + "Salary: " + director.getSalary() + "\n" + "Married: " + director.isMarried() + "\n" + "Engineering diploma: " + director.isEngineeringDiploma() + "\n" + "Experience: " + director.getExperience());
+        System.out.println("Surname: " + director.getSurname() + "\n" + "Age: " +
+                director.getAge() + "\n" + "Salary: " + director.getSalary() + "\n" +
+                "Married: " + director.isMarried() + "\n" + "Engineering diploma: " +
+                director.isEngineeringDiploma() + "\n" + "Experience: " + director.getExperience());
 
         director.holidays();
         director.walk();
@@ -106,7 +116,10 @@ public class MyMain {
         deputy.setExperience(15);
 
         System.out.println("\n" + "Information about the deputy:");
-        System.out.println("Surname: " + deputy.getSurname() + "\n" + "Age: " + deputy.getAge() + "\n" + "Salary: " + deputy.getSalary() + "\n" + "Married: " + deputy.isMarried() + "\n" + "Engineering diploma: " + deputy.isEngineeringDiploma() + "\n" + "Experience: " + deputy.getExperience());
+        System.out.println("Surname: " + deputy.getSurname() + "\n" + "Age: " +
+                deputy.getAge() + "\n" + "Salary: " + deputy.getSalary() + "\n" +
+                "Married: " + deputy.isMarried() + "\n" + "Engineering diploma: " +
+                deputy.isEngineeringDiploma() + "\n" + "Experience: " + deputy.getExperience());
 
         deputy.holidays();
         deputy.walk();
@@ -125,7 +138,10 @@ public class MyMain {
         manager.setExperience(12);
 
         System.out.println("\n" + "Information about the manager:");
-        System.out.println("Surname: " + manager.getSurname() + "\n" + "Age: " + manager.getAge() + "\n" + "Salary: " + manager.getSalary() + "\n" + "Married: " + manager.isMarried() + "\n" + "Engineering diploma: " + manager.isEngineeringDiploma() + "\n" + "Experience: " + manager.getExperience());
+        System.out.println("Surname: " + manager.getSurname() + "\n" + "Age: " +
+                manager.getAge() + "\n" + "Salary: " + manager.getSalary() + "\n" +
+                "Married: " + manager.isMarried() + "\n" + "Engineering diploma: " +
+                manager.isEngineeringDiploma() + "\n" + "Experience: " + manager.getExperience());
 
         manager.holidays();
         manager.walk();

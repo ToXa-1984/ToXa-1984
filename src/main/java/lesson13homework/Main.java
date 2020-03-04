@@ -12,7 +12,7 @@ public class Main {
 
         //Зад2
         ThirdClass myTh = new ThirdClass();
-        myTh.mySet = new HashSet();
+        myTh.getMySet();
         ThirdClass myTh2 = new ThirdClass();
         ThirdClass myTh3 = new ThirdClass();
 
