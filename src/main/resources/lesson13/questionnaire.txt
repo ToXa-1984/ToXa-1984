@@ -1,0 +1,6 @@
+{1={What day is today: =1, How are you: =1}}
+{2={What day is today: =2, How are you: =2}}
+{3={What day is today: =3, How are you: =3}}
+{4={What day is today: =4, How are you: =4}}
+{s={What day is today: =s, How are you: =s}}
+{q={What day is today: =q, How are you: =q}}

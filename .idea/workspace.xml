@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="2ba67078-c591-487f-82bd-9663fbe10325" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lesson14/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson14/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lesson14homework/FirstClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson14homework/FirstClass.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -203,7 +201,21 @@
       <option name="project" value="LOCAL" />
       <updated>1583354862602</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="6.03.2020 последняя домашка">
+      <created>1583503539085</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1583503539085</updated>
+    </task>
+    <task id="LOCAL-00010" summary="6.03.2020 последняя домашка">
+      <created>1583503632262</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1583503632262</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -211,7 +223,8 @@
     <MESSAGE value="04.03.2020" />
     <MESSAGE value="04.03.2020 + мелкие поправочки" />
     <MESSAGE value="04.03.2020 + мелкие поправочки + правочка с хэшсэтом" />
-    <option name="LAST_COMMIT_MESSAGE" value="04.03.2020 + мелкие поправочки + правочка с хэшсэтом" />
+    <MESSAGE value="6.03.2020 последняя домашка" />
+    <option name="LAST_COMMIT_MESSAGE" value="6.03.2020 последняя домашка" />
   </component>
   <component name="WindowStateProjectService">
     <state x="450" y="189" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1583247984078">
@@ -246,10 +259,10 @@
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="482" y="303" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1440.860@0.0.1440.860" timestamp="1580584036025" />
-    <state x="371" y="50" key="CommitChangelistDialog2" timestamp="1583503536143">
+    <state x="371" y="50" key="CommitChangelistDialog2" timestamp="1583503630509">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state x="371" y="50" key="CommitChangelistDialog2/0.0.1440.860@0.0.1440.860" timestamp="1583503536143" />
+    <state x="371" y="50" key="CommitChangelistDialog2/0.0.1440.860@0.0.1440.860" timestamp="1583503630509" />
     <state x="500" y="189" key="FileChooserDialogImpl" timestamp="1581607784224">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
@@ -278,10 +291,10 @@
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="223" y="17" key="SettingsEditor/0.0.1440.860@0.0.1440.860" timestamp="1583156153438" />
-    <state x="0" y="0" key="Vcs.Push.Dialog.v2" timestamp="1583503543375">
+    <state x="0" y="0" key="Vcs.Push.Dialog.v2" timestamp="1583503634102">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state x="0" y="0" key="Vcs.Push.Dialog.v2/0.0.1440.860@0.0.1440.860" timestamp="1583503543375" />
+    <state x="0" y="0" key="Vcs.Push.Dialog.v2/0.0.1440.860@0.0.1440.860" timestamp="1583503634102" />
     <state x="428" y="259" key="com.intellij.ide.util.TipDialog" timestamp="1583312521598">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
